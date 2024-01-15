@@ -1,0 +1,11 @@
+{
+	"name": "catalyst",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "vaibhavdnalawade396@gmail.com",
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"request": "^2.88.2",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
